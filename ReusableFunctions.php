@@ -6,7 +6,7 @@ function welcome($welcome)
     //have sql to pull in info from a Database or Spec about topic using $_SERVER['PHP_SELF']
 }
 
-/*This is announces the topic.*/
+/*This announces the topic.*/
 
 function formatNum($num)
 {
